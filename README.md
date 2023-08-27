@@ -1,3 +1,9 @@
+## disclosure
+
+> A good developer knows when to write a good software and when to ship fast
+
+This is by no means a production ready code. This proof of idea code was written as a throw away code.
+
 ## usage
 
 Clone repository, enter the cloned directory and run commands:
